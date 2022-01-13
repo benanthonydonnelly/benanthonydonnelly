@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @benanthonydonnelly
+- 👀 I’m interested in iOS development, building new things and Defi/Web3
+- 🌱 I’m currently learning Swift, Solidity
+- 💞️ I’m looking to collaborate on some game changing Web3 projects
+- 📫 How to reach me, Instagram @benanthonydonnelly
